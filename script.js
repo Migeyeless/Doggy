@@ -1,8 +1,8 @@
 score = 0;
 cross = true;
 
-audiogo = new Audio('dogded.mp3');
-audio = new Audio('game.mp3');
+audiogo = new Audio('/Migeyeless/dogded.mp3');
+audio = new Audio('/Migeyeless/game.mp3');
 setTimeout(() => {
   audio.play()
 }, 100);
