@@ -5,7 +5,7 @@ audiogo = new Audio('dogded.mp3');
 audio = new Audio('game.mp3');
 setTimeout(() => {
   audio.play()
-}, 100);
+}, 10);
 
 document.onkeydown = function (e) {
   console.log("key code is: ", e.keyCode);
