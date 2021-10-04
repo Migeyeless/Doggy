@@ -5,6 +5,11 @@
 body{
    background-color: burlywood;
    overflow: hidden;
+    background-color: burlywood;
+   overflow: hidden;
+   background-image: url(back.jpg);
+background-repeat: no-repeat;
+    background-size: 100vw 100vh;
 }
 
 .gameContainer{
